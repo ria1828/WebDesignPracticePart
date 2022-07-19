@@ -1,0 +1,14 @@
+body{
+    background-color: lightgray;
+}
+button
+{
+    background-color:cornflowerblue;
+    border-radius: 20px ;
+    border-color:white;
+    transition: .4s;
+    cursor: pointer;
+    padding: 10px;
+
+  
+}
